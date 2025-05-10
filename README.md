@@ -1,7 +1,7 @@
  <h1 align="center">Hi , I'm  Archana Patil</h1>
  <h3 align="center">A passionate Full Stack Developer </h3>
 
-<!--hiiii helloooo LSB:oid l;BSEIOvb -->
+<!--HELLO LSB:oid l;BSEIOvb -->
 ![Profile-Views-Counter](https://komarev.com/ghpvc/?username=SArchanaPatil712&label=PROFILE+VIEWS&style=flat-square&color=orange)
 
 <div align="center">
