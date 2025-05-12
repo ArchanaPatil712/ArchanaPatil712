@@ -14,7 +14,7 @@
 <div align="center">
   <h3 align="centre">Connect with me !</h3>
 <p align="centre">
-<a href="https://www.linkedin.com/in/archana-patil-82ab10203/" target="blank">></a>
+<a href="https://www.linkedin.com/in/archana-patil-82ab10203/" target="blank"></a>
 <a href="https://www.hackerrank.com/profile/patilarchana1911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@suraj24604" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/ArchanaPatil712/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suraj_sawant" height="30" width="40" /></a>
 </p>
