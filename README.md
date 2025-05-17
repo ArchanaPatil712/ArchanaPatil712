@@ -1,7 +1,7 @@
  <h1 align="center">Hi , I'm  Archana Patil</h1>
  <h3 align="center">A passionate Full Stack Developer </h3>
 
-<!--HELLO Everyone LSB:oid l;BSEIOvb  -->
+
 
 ![Profile-Views-Counter](https://komarev.com/ghpvc/?username=SArchanaPatil712\&label=PROFILE+VIEWS\&style=flat-square\&color=orange)
 
@@ -54,14 +54,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+</a>
+
   <a href="https://wordpress.org" target="_blank" rel="noreferrer" style="margin-right: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
+</a>
+
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
