@@ -93,11 +93,8 @@
 ## Views
 
 <!--![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Ayush29Ayush&label=PROFILE+VIEWS&style=flat-square&color=green)-->
-
 ![Profile-Views-Counter](https://komarev.com/ghpvc/?username=ArchanaPatil712\&label=PROFILE+VIEWS\&style=flat-square\&color=orange)
-
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)-->
-
 <!--<div align="center" style="background-color: black; padding: 20px;">
        <img src="https://streak-stats.demolab.com?user=YashL3616&theme=transparent&hide_border=true"/>
 </div>-->
