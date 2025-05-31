@@ -22,7 +22,7 @@
 
 ## ⚡Technologies
 
-<!--## 👨🏻‍💻 Coding Profiles
+<!--## 👨🏻‍💻Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/-LeeCoe-FFA116?style=flat-squae&logo=LeetCode&logoColor=black)](https://leetcode.com/Yash/)-->
 
