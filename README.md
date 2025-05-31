@@ -20,7 +20,7 @@
 </p>
  </div>
 
-## ⚡ Technologies
+## ⚡Technologies
 
 <!--## 👨🏻‍💻 Coding Profiles
 
