@@ -1,5 +1,4 @@
-
- <h1 align="center"> Hi, This is Archana Patil </h1>
+<h1 align="center"> Hi, This is Archana Patil </h1>
  <h3 align="center">...A passionate Full Stack Developer... </h3>
 
 ![Profile-Views-Counter](https://komarev.com/ghpvc/?username=SArchanaPatil712\&label=PROFILE+VIEWS\&style=flat-square\&color=orange)
