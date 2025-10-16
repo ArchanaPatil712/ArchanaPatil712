@@ -20,7 +20,7 @@
 
 ## ⚡Technologies
 
-<!--## 👨🏻‍💻Coing Profiles
+<!--## 👨🏻‍💻Coing Profilestjy
 
 [![LeetCode](https://img.shields.io/badge/-Leeoe-FFA116?style=flat-squae&logo=LeetCode&logoColor=black)](https://leetcode.com/Yash/)-->
 
